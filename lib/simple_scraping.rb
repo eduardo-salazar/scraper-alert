@@ -1,5 +1,2 @@
-require "simple_scraping/version"
+require_relative "scraper/init.rb"
 
-module SimpleScraping
-  # Your code goes here...
-end
